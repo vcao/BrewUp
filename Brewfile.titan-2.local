@@ -1,0 +1,88 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-drivers"
+tap "homebrew/core"
+tap "sambadevi/powerlevel9k"
+cask "osxfuse"
+brew "archey"
+brew "brew-cask-completion"
+brew "openssl@1.1"
+brew "sqlite"
+brew "cmake"
+brew "coreutils"
+brew "csvkit", link: false
+brew "esniper"
+brew "gcc"
+brew "git"
+brew "libpq", link: true
+brew "mas"
+brew "nvm"
+brew "pianobar"
+brew "ssh-copy-id", link: true
+brew "sshfs"
+brew "thefuck"
+brew "wget"
+brew "wifi-password"
+brew "wpscan"
+brew "xsv"
+brew "yarn"
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
+brew "sambadevi/powerlevel9k/powerlevel9k"
+cask "asix-ax88179"
+cask "betterzip"
+cask "caffeine"
+cask "db-browser-for-sqlite"
+cask "flux"
+cask "iina"
+cask "imageoptim"
+cask "marshallofsound-google-play-music-player"
+cask "mkchromecast"
+cask "qlcolorcode"
+cask "qlimagesize"
+cask "qlmarkdown"
+cask "qlprettypatch"
+cask "qlstephen"
+cask "qlvideo"
+cask "quicklook-csv"
+cask "quicklook-json"
+cask "quicklook-pat"
+cask "quicklookase"
+cask "quicknfo"
+cask "soundflower"
+cask "suspicious-package"
+cask "the-unarchiver"
+cask "vlc"
+cask "webponize"
+cask "webpquicklook"
+cask "xact"
+cask "yakyak"
+mas "1Blocker", id: 1107421413
+mas "AdBlock Pro", id: 1484190263
+mas "Affinity Photo", id: 824183456
+mas "DaftCloud", id: 1320450034
+mas "Day One", id: 1055511498
+mas "Disk Speed Test", id: 425264550
+mas "Fantastical", id: 975937182
+mas "Honey", id: 1472777122
+mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
+mas "MediaInfo", id: 510620098
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft To Do", id: 1274495053
+mas "Numbers", id: 409203825
+mas "OneDrive", id: 823766827
+mas "Pages", id: 409201541
+mas "Pixelmator", id: 407963104
+mas "Pixelmator Pro", id: 1289583905
+mas "Pocket", id: 568494494
+mas "Pushbullet", id: 948415170
+mas "Reeder", id: 1449412482
+mas "Remote Desktop", id: 409907375
+mas "Save to Pocket", id: 1477385213
+mas "Speedtest", id: 1153157709
+mas "Table Tool", id: 1122008420
+mas "Things", id: 904280696
+mas "Twitter", id: 1482454543
+mas "WiFi Explorer", id: 494803304
+mas "Wunderlist", id: 410628904
