@@ -60,11 +60,8 @@ cask "webpquicklook"
 cask "xact"
 cask "yakyak"
 mas "1Blocker", id: 1107421413
-mas "AdBlock Pro", id: 1484190263
 mas "Affinity Photo", id: 824183456
-mas "Bear", id: 1091189122
 mas "DaftCloud", id: 1320450034
-mas "Day One", id: 1055511498
 mas "Developer", id: 640199958
 mas "Disk Speed Test", id: 425264550
 mas "Drafts", id: 1435957248
