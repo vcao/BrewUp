@@ -36,7 +36,6 @@ brew "zsh-syntax-highlighting"
 brew "sambadevi/powerlevel9k/powerlevel9k"
 cask "asix-ax88179"
 cask "betterzip"
-cask "caffeine"
 cask "db-browser-for-sqlite"
 cask "flux"
 cask "font-hack-nerd-font"
@@ -97,3 +96,4 @@ mas "Things", id: 904280696
 mas "Twitter", id: 1482454543
 mas "WebP Viewer", id: 1323414118
 mas "WiFi Explorer", id: 494803304
+mas "Xcode", id: 497799835
