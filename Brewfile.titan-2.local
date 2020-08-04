@@ -1,6 +1,8 @@
+tap "buo/cask-upgrade"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
+tap "homebrew/cask-fonts"
 tap "homebrew/core"
 tap "sambadevi/powerlevel9k"
 cask "osxfuse"
@@ -14,13 +16,20 @@ brew "csvkit", link: false
 brew "esniper"
 brew "gcc"
 brew "git"
+brew "gnupg"
+brew "htop"
+brew "iperf"
+brew "iperf3"
+brew "jq"
 brew "libpq", link: true
 brew "mas"
 brew "nvm"
 brew "pianobar"
+brew "rclone"
 brew "ssh-copy-id", link: true
 brew "sshfs"
 brew "thefuck"
+brew "watchman"
 brew "wget"
 brew "wifi-password"
 brew "wpscan"
@@ -31,9 +40,12 @@ brew "zsh-syntax-highlighting"
 brew "sambadevi/powerlevel9k/powerlevel9k"
 cask "asix-ax88179"
 cask "betterzip"
-cask "caffeine"
 cask "db-browser-for-sqlite"
 cask "flux"
+cask "font-hack-nerd-font"
+cask "font-meslo-for-powerline"
+cask "font-meslolg-nerd-font"
+cask "font-noto-color-emoji"
 cask "iina"
 cask "imageoptim"
 cask "marshallofsound-google-play-music-player"
@@ -57,15 +69,15 @@ cask "webponize"
 cask "webpquicklook"
 cask "xact"
 cask "yakyak"
+cask "zettlr"
 mas "1Blocker", id: 1107421413
-mas "AdBlock Pro", id: 1484190263
 mas "Affinity Photo", id: 824183456
-mas "Bear", id: 1091189122
 mas "DaftCloud", id: 1320450034
-mas "Day One", id: 1055511498
+mas "Developer", id: 640199958
 mas "Disk Speed Test", id: 425264550
 mas "Drafts", id: 1435957248
 mas "Fantastical", id: 975937182
+mas "Final Cut Pro", id: 424389933
 mas "Honey", id: 1472777122
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
@@ -86,4 +98,6 @@ mas "Speedtest", id: 1153157709
 mas "Table Tool", id: 1122008420
 mas "Things", id: 904280696
 mas "Twitter", id: 1482454543
+mas "WebP Viewer", id: 1323414118
 mas "WiFi Explorer", id: 494803304
+mas "Xcode", id: 497799835
