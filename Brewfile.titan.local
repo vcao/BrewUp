@@ -16,12 +16,16 @@ brew "csvkit", link: false
 brew "esniper"
 brew "gcc"
 brew "git"
+brew "gnupg"
 brew "htop"
+brew "iperf"
+brew "iperf3"
 brew "jq"
 brew "libpq", link: true
 brew "mas"
 brew "nvm"
 brew "pianobar"
+brew "rclone"
 brew "ssh-copy-id", link: true
 brew "sshfs"
 brew "thefuck"
