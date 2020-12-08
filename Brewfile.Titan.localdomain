@@ -79,6 +79,7 @@ mas "Disk Speed Test", id: 425264550
 mas "Drafts", id: 1435957248
 mas "Fantastical", id: 975937182
 mas "Final Cut Pro", id: 424389933
+mas "HomePass", id: 1330266650
 mas "Honey", id: 1472777122
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
@@ -93,9 +94,9 @@ mas "Pixelmator", id: 407963104
 mas "Pixelmator Pro", id: 1289583905
 mas "Pocket", id: 568494494
 mas "Pushbullet", id: 948415170
-mas "Red Hot Timer", id: 929960914
 mas "Reeder", id: 1529448980
 mas "Remote Desktop", id: 409907375
+mas "RH Timer", id: 929960914
 mas "Save to Pocket", id: 1477385213
 mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
