@@ -25,6 +25,7 @@ brew "libpq", link: true
 brew "mas"
 brew "nvm"
 brew "pianobar"
+brew "pwgen"
 brew "rclone"
 brew "ssh-copy-id", link: true
 brew "sshfs"
@@ -38,6 +39,7 @@ brew "yarn"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "sambadevi/powerlevel9k/powerlevel9k"
+cask "aerial"
 cask "asix-ax88179"
 cask "betterzip"
 cask "db-browser-for-sqlite"
@@ -72,18 +74,20 @@ cask "yakyak"
 cask "zettlr"
 mas "1Blocker", id: 1107421413
 mas "Affinity Photo", id: 824183456
-mas "DaftCloud", id: 1320450034
+mas "Compressor", id: 424390742
 mas "Developer", id: 640199958
 mas "Disk Speed Test", id: 425264550
 mas "Drafts", id: 1435957248
 mas "Fantastical", id: 975937182
 mas "Final Cut Pro", id: 424389933
+mas "HomePass", id: 1330266650
 mas "Honey", id: 1472777122
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "MediaInfo", id: 510620098
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft To Do", id: 1274495053
+mas "Not Phở", id: 1525104124
 mas "Numbers", id: 409203825
 mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
@@ -91,12 +95,16 @@ mas "Pixelmator", id: 407963104
 mas "Pixelmator Pro", id: 1289583905
 mas "Pocket", id: 568494494
 mas "Pushbullet", id: 948415170
-mas "Reeder", id: 1449412482
+mas "Reeder", id: 1529448980
 mas "Remote Desktop", id: 409907375
+mas "RH Timer", id: 929960914
 mas "Save to Pocket", id: 1477385213
+mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
 mas "Table Tool", id: 1122008420
+mas "Tampermonkey", id: 1482490089
 mas "Things", id: 904280696
+mas "Turn Off the Lights for Safari", id: 1273998507
 mas "Twitter", id: 1482454543
 mas "WebP Viewer", id: 1323414118
 mas "WiFi Explorer", id: 494803304
